@@ -10,4 +10,5 @@ Repositorio del proyecto integrador.
 ● Emilio Rios Ochoa - A01378965<br/>
 
 Veáse el manual para conocer los criterios de instalación
+
 Veáse la presentación para conocer más acerca del proyecto
