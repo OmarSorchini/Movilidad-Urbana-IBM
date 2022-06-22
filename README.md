@@ -53,3 +53,7 @@ Del mismo modo si se quiere ejecutar con los servicios de la nube, deberá usars
 Para esto, abra la consola de su preferencia en el folder donde se clonó el repositorio y ejecute la siguiente instrucción para correr el programa:
 
 `python mesaServer.py`
+
+Veáse el manual para conocer los criterios de instalación en profundidad
+
+Veáse la presentación para conocer más acerca del proyecto 
