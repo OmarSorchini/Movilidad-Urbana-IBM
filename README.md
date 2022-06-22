@@ -9,6 +9,8 @@ Repositorio del proyecto integrador.
 ● Melissa Garduño Ruiz - A01748945<br/>
 ● Emilio Rios Ochoa - A01378965<br/>
 
+----------------------
+
 ### Descripcion
 
 Este proyecto fue desarrollado dentro de Unity y sirve para poder representar lo que haría una red de tráfico inteligente usando el servicios de IBM cloud.
@@ -38,6 +40,8 @@ Nótese que se debe tener el Unity Hub para poder descargar la versión 2020de p
 
 https://unity3d.com/es/get-unity/download
 
+----------------------------------
+
 ### Ejecucion
 
 Para correr el proyecto se debe ejecutar el archivo con los servicios de MESA (localmente) se debe de utilizar los archivos de la carpeta OLD_PYTHON y una vez ahí deberá ejecutarse el archivo serverBROWSER.py.
@@ -53,6 +57,8 @@ Del mismo modo si se quiere ejecutar con los servicios de la nube, deberá usars
 Para esto, abra la consola de su preferencia en el folder donde se clonó el repositorio y ejecute la siguiente instrucción para correr el programa:
 
 `python mesaServer.py`
+
+---------------------
 
 Veáse el manual para conocer los criterios de instalación en profundidad
 
